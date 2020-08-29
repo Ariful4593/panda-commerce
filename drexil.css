@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 50px;
+}
+.blue-bg .test a{
+    background-color: #07294d;
+    color: white;
+}
+.blue-bg .test a:hover{
+    color: #ffc600;
+}
+.highlight a{
+    margin-left: 13px;
+    background-color: #ffc600  !important;
+    font-weight: bold;
+    color: #07294d;
+}
+.search{
+    margin-left: 13px;
+}
+
